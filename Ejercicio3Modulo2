@@ -12,13 +12,13 @@
         <br>
         <div>
             <h1>Aprendiendo a utilizar los vídeos</h1>
-            <video src="Yellow Among Us Twerk.mp4" type="video/mp4" width="500" height="500" controls muted autoplay loop></video>
+            <video src="Charlie woo Original clip-[onlinevideoconverter.com].mp4" type="video/mp4" width="500" height="500" controls muted autoplay loop></video>
         </div>
         <br>
         <div>
             <h1>Aprendiendo a utilizar los audios</h1>
             <audio controls autoplay loop>
-                <source src="rizz-sounds.mp3" type="audio/mp3" />
+                <source src="Charlie_woo_Original_clip.mp3" type="audio/mp3" />
             </audio>
         </div>
     </body>
